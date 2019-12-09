@@ -124,7 +124,7 @@ public class CC {
             System.out.println("Invalid input");
         }
 
-        System.out.println("Thank you for choosing our Example Programs");
+        System.out.println("Thank You!");
     }
 }
 
